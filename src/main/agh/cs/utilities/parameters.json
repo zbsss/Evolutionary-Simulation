@@ -1,0 +1,11 @@
+{
+  "mapDimension" : 100,
+  "startAnimalNumber" : 100,
+  "startEnergy" : 200,
+  "moveEnergy" : 10,
+  "plantEnergy" : 100,
+  "newPlants" : 20,
+  "jungleRatio" : 0.25,
+  "delay" : 30,
+  "numberOfSimulations" : 2
+}

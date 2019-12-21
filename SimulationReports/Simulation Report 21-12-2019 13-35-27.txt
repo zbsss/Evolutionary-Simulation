@@ -1,0 +1,358 @@
+AVERAGE DATA FROM THE WHOLE SIMULATION: 
+Total number of days: 39
+Average number of animals: 71.02564102564102
+Average number of plants: 707.9230769230769
+Average energy: 130.08328157121554
+Average lifespan: 17.691131028174848
+Average number of children: 0.05660359413585098
+All time highest energy: 690
+All time highest number of children: 1
+All time oldest age: 37
+
+
+Day: 0
+Number of animals: 100
+Number of plants: 40
+Average energy: 200,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 0,00
+Average number of children: 0,00
+Highest energy: 200
+Oldest animal's age: 0
+Highest number of children: 0
+
+
+Day: 1
+Number of animals: 100
+Number of plants: 79
+Average energy: 191,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 1,00
+Average number of children: 0,00
+Highest energy: 290
+Oldest animal's age: 1
+Highest number of children: 0
+
+
+Day: 2
+Number of animals: 100
+Number of plants: 119
+Average energy: 181,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 2,00
+Average number of children: 0,00
+Highest energy: 280
+Oldest animal's age: 2
+Highest number of children: 0
+
+
+Day: 3
+Number of animals: 100
+Number of plants: 159
+Average energy: 171,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 3,00
+Average number of children: 0,00
+Highest energy: 270
+Oldest animal's age: 3
+Highest number of children: 0
+
+
+Day: 4
+Number of animals: 101
+Number of plants: 199
+Average energy: 159,41
+Most popular Genotype: [00000011122223333344555555666777], is 2/101
+Average age: 3,97
+Average number of children: 0,02
+Highest energy: 260
+Oldest animal's age: 4
+Highest number of children: 1
+
+
+Day: 5
+Number of animals: 101
+Number of plants: 236
+Average energy: 152,38
+Most popular Genotype: [00000011122223333344555555666777], is 2/101
+Average age: 4,97
+Average number of children: 0,02
+Highest energy: 250
+Oldest animal's age: 5
+Highest number of children: 1
+
+
+Day: 6
+Number of animals: 101
+Number of plants: 275
+Average energy: 143,37
+Most popular Genotype: [00000011122223333344555555666777], is 2/101
+Average age: 5,97
+Average number of children: 0,02
+Highest energy: 340
+Oldest animal's age: 6
+Highest number of children: 1
+
+
+Day: 7
+Number of animals: 101
+Number of plants: 311
+Average energy: 137,33
+Most popular Genotype: [00000011122223333344555555666777], is 2/101
+Average age: 6,97
+Average number of children: 0,02
+Highest energy: 330
+Oldest animal's age: 7
+Highest number of children: 1
+
+
+Day: 8
+Number of animals: 101
+Number of plants: 350
+Average energy: 128,32
+Most popular Genotype: [00000011122223333344555555666777], is 2/101
+Average age: 7,97
+Average number of children: 0,02
+Highest energy: 320
+Oldest animal's age: 8
+Highest number of children: 1
+
+
+Day: 9
+Number of animals: 102
+Number of plants: 387
+Average energy: 120,10
+Most popular Genotype: [00000011122223333344555555666777], is 2/102
+Average age: 8,89
+Average number of children: 0,04
+Highest energy: 310
+Oldest animal's age: 9
+Highest number of children: 1
+
+
+Day: 10
+Number of animals: 103
+Number of plants: 426
+Average energy: 110,00
+Most popular Genotype: [00000011122223333344555555666777], is 2/103
+Average age: 9,81
+Average number of children: 0,06
+Highest energy: 300
+Oldest animal's age: 10
+Highest number of children: 1
+
+
+Day: 11
+Number of animals: 103
+Number of plants: 461
+Average energy: 104,85
+Most popular Genotype: [00000011122223333344555555666777], is 2/103
+Average age: 10,81
+Average number of children: 0,06
+Highest energy: 290
+Oldest animal's age: 11
+Highest number of children: 1
+
+
+Day: 12
+Number of animals: 103
+Number of plants: 500
+Average energy: 95,83
+Most popular Genotype: [00000011122223333344555555666777], is 2/103
+Average age: 11,81
+Average number of children: 0,06
+Highest energy: 380
+Oldest animal's age: 12
+Highest number of children: 1
+
+
+Day: 13
+Number of animals: 102
+Number of plants: 535
+Average energy: 91,67
+Most popular Genotype: [00000011111111223333344445566667], is 1/102
+Average age: 12,83
+Average number of children: 0,06
+Highest energy: 370
+Oldest animal's age: 13
+Highest number of children: 1
+
+
+Day: 14
+Number of animals: 102
+Number of plants: 571
+Average energy: 85,59
+Most popular Genotype: [00000011111111223333344445566667], is 1/102
+Average age: 13,83
+Average number of children: 0,06
+Highest energy: 360
+Oldest animal's age: 14
+Highest number of children: 1
+
+
+Day: 15
+Number of animals: 102
+Number of plants: 607
+Average energy: 79,51
+Most popular Genotype: [00000011111111223333344445566667], is 1/102
+Average age: 14,83
+Average number of children: 0,06
+Highest energy: 350
+Oldest animal's age: 15
+Highest number of children: 1
+
+
+Day: 16
+Number of animals: 102
+Number of plants: 645
+Average energy: 71,57
+Most popular Genotype: [00000011111111223333344445566667], is 1/102
+Average age: 15,77
+Average number of children: 0,08
+Highest energy: 340
+Oldest animal's age: 16
+Highest number of children: 1
+
+
+Day: 17
+Number of animals: 100
+Number of plants: 678
+Average energy: 70,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 16,77
+Average number of children: 0,06
+Highest energy: 330
+Oldest animal's age: 17
+Highest number of children: 1
+
+
+Day: 18
+Number of animals: 100
+Number of plants: 714
+Average energy: 64,00
+Most popular Genotype: [00000011111111223333344445566667], is 1/100
+Average age: 17,77
+Average number of children: 0,06
+Highest energy: 320
+Oldest animal's age: 18
+Highest number of children: 1
+
+
+Day: 19
+Number of animals: 97
+Number of plants: 747
+Average energy: 63,37
+Most popular Genotype: [00000011111111223333344445566667], is 1/97
+Average age: 18,76
+Average number of children: 0,03
+Highest energy: 310
+Oldest animal's age: 19
+Highest number of children: 1
+
+
+Day: 20
+Number of animals: 97
+Number of plants: 779
+Average energy: 61,62
+Most popular Genotype: [00000011111111223333344445566667], is 1/97
+Average age: 19,76
+Average number of children: 0,03
+Highest energy: 300
+Oldest animal's age: 20
+Highest number of children: 1
+
+
+Day: 21
+Number of animals: 45
+Number of plants: 816
+Average energy: 129,62
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 20,67
+Average number of children: 0,07
+Highest energy: 290
+Oldest animal's age: 21
+Highest number of children: 1
+
+
+Day: 22
+Number of animals: 45
+Number of plants: 854
+Average energy: 124,07
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 21,67
+Average number of children: 0,07
+Highest energy: 380
+Oldest animal's age: 22
+Highest number of children: 1
+
+
+Day: 23
+Number of animals: 45
+Number of plants: 891
+Average energy: 120,73
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 22,67
+Average number of children: 0,07
+Highest energy: 370
+Oldest animal's age: 23
+Highest number of children: 1
+
+
+Day: 24
+Number of animals: 45
+Number of plants: 926
+Average energy: 121,84
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 23,67
+Average number of children: 0,07
+Highest energy: 460
+Oldest animal's age: 24
+Highest number of children: 1
+
+
+Day: 25
+Number of animals: 45
+Number of plants: 959
+Average energy: 127,40
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 24,67
+Average number of children: 0,07
+Highest energy: 450
+Oldest animal's age: 25
+Highest number of children: 1
+
+
+Day: 26
+Number of animals: 45
+Number of plants: 999
+Average energy: 117,40
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 25,67
+Average number of children: 0,07
+Highest energy: 440
+Oldest animal's age: 26
+Highest number of children: 1
+
+
+Day: 27
+Number of animals: 45
+Number of plants: 1032
+Average energy: 122,96
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 26,67
+Average number of children: 0,07
+Highest energy: 530
+Oldest animal's age: 27
+Highest number of children: 1
+
+
+Day: 28
+Number of animals: 45
+Number of plants: 1067
+Average energy: 124,07
+Most popular Genotype: [00001111122222222334445666667777], is 1/45
+Average age: 27,67
+Average number of children: 0,07
+Highest energy: 620
+Oldest animal's age: 28
+Highest number of children:
