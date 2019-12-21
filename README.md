@@ -13,6 +13,7 @@
 After pausing the animation you can select an animal by clicking on it. There can only be one selected animal at a time. After being selected the animals color changes to ![#ac00e6](https://placehold.it/15/ac00e6/000000?text=+), and it's data is shown in the panel 'SELECTED ANIMAL'.
 
 ### Settings
+You can change the settings of the simulation in the 'parameters.json' file. Maps are square for the sake of scaling, so the size depends only on the parameter 'mapDiemnsion'. To open multimple simulations at once set the parameter 'numberOfSimulations' to the desired value.
 
 ### Reports
 Reports are generated and saved when you click the 'Save report' button. Each report holds the average information from the whole simulation, and data gathered from each day of the simulation.
