@@ -9,8 +9,8 @@
 
 - ![#ffec19](https://placehold.it/15/ffec19/000000?text=+) `-` ![#f6412d](https://placehold.it/15/f6412d/000000?text=+) `Animal color range depending on it's energy (more red, higher the energy)`
 
-### Selection an animal
-After pausing the animation you can select an animal by clicking on it. There can only be one selected animal at a time. After being selected the animals color changes to [#ac00e6](https://placehold.it/15/ac00e6/000000?text=+), and it's data is shown in the panel 'SELECTED ANIMAL'.
+### Selecting an animal
+After pausing the animation you can select an animal by clicking on it. There can only be one selected animal at a time. After being selected the animals color changes to ![#ac00e6](https://placehold.it/15/ac00e6/000000?text=+), and it's data is shown in the panel 'SELECTED ANIMAL'.
 
 ### Settings
 
