@@ -18,3 +18,5 @@ You can change the settings of the simulation in the 'parameters.json' file. Map
 ### Reports
 Reports are generated and saved when you click the 'Save report' button. Each report holds the average information from the whole simulation, and data gathered from each day of the simulation.
 
+### Video
+https://www.youtube.com/watch?v=l3YRtu0Fjxo&feature=youtu.be
